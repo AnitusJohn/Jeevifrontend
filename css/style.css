@@ -24,9 +24,11 @@ h6 {
 .white {
 	color:#ffffff !important;
 }
+
 .black {
 	color:#000000;
 }
+
 .navbar {
 	position: fixed;
 	right: 0;
@@ -39,6 +41,7 @@ h6 {
 	background: transparent;
 	z-index: 1030;
 }
+
 .navbar .active {
 	color: #ffbd59 !important;
 }
@@ -53,9 +56,11 @@ h6 {
 	font-weight: 600;
 	font-size: 13px;
 }
+
 .navbar .nav-item a:hover {
 	color: #fff;
 }
+
 .navbar .nav-link {
 	position: relative;
 	padding: 0;
@@ -70,7 +75,8 @@ h6 {
 	display: none;
 }
 .nav-scroll {
-	background: linear-gradient(to left, #df409a, #000);
+	background: linear-gradient(to left, #fffb1f, #000);
+	/* background: linear-gradient(to left, #df409a, #000); */
 	/* background: linear-gradient(to left, #4cccd9, #464a58); */
 
 	/* background: #fff; */
@@ -101,7 +107,7 @@ h6 {
 .banner {
 	/* background: #7a60ff; */
 	/* background: linear-gradient(to left, #036, #000); */
-	background: linear-gradient(to left, #df409a, #000);
+	background: linear-gradient(to left, #fffb1f, #000);
 	/* background: linear-gradient(to left, #4cccd9, #464a58); */
 	padding:100px 0px;
 	position:relative;
