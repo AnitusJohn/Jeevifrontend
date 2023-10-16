@@ -200,7 +200,7 @@ h6 {
 	height: 135px;
 	border-radius: 100px;
 	background: #7a60ff;
-	background: linear-gradient(to left, #df409a, #000);
+	background: linear-gradient(to left, #c4c118, #000);
 	color: #ffffff;
 	font-size: 50px;
 	line-height: 135px;
@@ -469,7 +469,7 @@ input {
 	padding: 2rem 2rem 1rem;
 	border-radius: 8px;
 	background: #7a60ff;
-	background: linear-gradient(to left, #df409a, #000);
+	background: linear-gradient(to left, #a19f14, #000);
 
 }
 .contact-item {
@@ -485,7 +485,7 @@ input {
 }
 .download {
 	background: #7a60ff;
-	background: linear-gradient(to left, #df409a, #000);
+	background: linear-gradient(to left, #dedb1b, #000);
 	/* background: linear-gradient(to left, #036, #000); */
 	padding:50px 0px;
 	position:relative;
@@ -646,7 +646,7 @@ h3 {
 
 .btn_Read_more{
     display: inline-block;
-    color: #df409a;
+    color: #bbb817;
     background: #fff;
     border: 1px solid ;
     font-weight: 700;
@@ -656,7 +656,7 @@ h3 {
 
 .btn_Read_more:hover{
     color: #fff;
-	background: linear-gradient(to left, #df409a, #000000);
+	background: linear-gradient(to left, #bbb817, #000000);
     border: 1px solid#fff;
 }
 
@@ -694,7 +694,7 @@ h3 {
 	border: 1px solid;
   }
   .card_body_each_a a span {
-	color: #df409a;
+	color: #a8a514;
 	font-size: 20px;
 	font-weight: 600;
 	height: 50px;
@@ -724,7 +724,7 @@ h3 {
 	border-radius: 50px !important;
 	border: 1px solid transparent;
 	background-color: #001828;
-	background-image: linear-gradient(120deg, #000, #df409a);
+	background-image: linear-gradient(120deg, #000, #fffb1f);
 	/* background-image: linear-gradient(159deg, #243b4a, #2a2d3c); */
 	/* box-shadow: inset -1px -1px 10px 0 rgba(32, 27, 61, 0.93), inset 1px 1px 3px 0 rgb(47, 53, 71), 1px 1px 2px 0 #000410; */
   }
@@ -739,7 +739,7 @@ h3 {
 	border: 1px solid transparent;
 	background-color: #001828;
 	text-decoration: none;
-	background-image: linear-gradient(120deg, #df409a, #000);
+	background-image: linear-gradient(120deg, #fffb1f, #000);
 	/* background-image: linear-gradient(159deg, #243b4a, #2a2d3c); */
 	/* box-shadow: inset -1px -1px 10px 0 rgba(32, 27, 61, 0.93), inset 1px 1px 3px 0 rgb(47, 53, 71), 1px 1px 2px 0 #000410; */
 }    
